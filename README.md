@@ -22,9 +22,20 @@ https://github.com/ryo-ma/github-profile-trophy
 
 
 # GitHub Readme Stats
+https://github.com/anuraghazra/github-readme-stats
+
+## GitHub Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=exchange_contact_app)](https://github.com/iseruuuuu/exchange_contact_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=money_calc_app)](https://github.com/iseruuuuu/money_calc_app)
+
+## Top Languages Card
 
 
-## GitHub Stats Card https://github.com/anuraghazra/github-readme-stats
+
+## GitHub Stats Card 
+
+
 <a href="https://github.com/iseruuuuu/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&show_icons=true&theme=dark" width = 30%/>
 </a>
