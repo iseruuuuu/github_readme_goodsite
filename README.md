@@ -12,7 +12,30 @@ https://github.com/ryo-ma/github-profile-trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu&row=1)](https://github.com/iseruuuuu/github-profile-trophy)
 
 
+## shields.io
 
+https://shields.io/category/social 
+
+<p align="left"> 
+  <a href="https://github.com/iseruuuuu/iseruuuuu/">
+    <img src="https://komarev.com/ghpvc/?username=iseruuuuu" alt="yutkat" />
+  </a>
+
+  <a href="http://twitter.com/isekiryu">
+    <img height="20" src="https://img.shields.io/twitter/follow/isekiryu?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  
+  <a href="https://github.com/iseruuuuu">
+    <img height="20" src="https://img.shields.io/github/followers/iseruuuuu?label=follow&logo=github&style=flat" />
+  </a>
+  
+  <a href="http://qiita.com/iseruuuuu">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/posts.svg" />
+  </a>
+  <//qiita.com/iseruuuuu">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/contributions.svg" />
+  </a>   
+</p>
 
 
 # GitHub Profile README Generator
