@@ -5,12 +5,6 @@ https://github.com/Ashutosh00710/github-readme-activity-graph
 ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iseruuuuu&theme=xcode)
 
 
-
-
-
-
-
-
 # Github Profile Trophy
 
 https://github.com/ryo-ma/github-profile-trophy
@@ -31,6 +25,10 @@ https://github.com/anuraghazra/github-readme-stats
 
 ## Top Languages Card
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&langs_count=8)](https://github.com/iseruuuuu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&hide=javascript,html)](https://github.com/iseruuuuu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact)](https://github.com/iseruuuuu/github-readme-stats)
 
 
 ## GitHub Stats Card 
