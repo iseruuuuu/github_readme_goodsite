@@ -63,6 +63,42 @@ https://github.com/ryo-ma/github-profile-trophy
 
 
 
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&hide=contribs,prs" width = 30%/>
+</a>
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&hide=commits" width = 30%/>
+</a>
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&hide=prs" width = 30%/>
+</a>
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&hide=issues" width = 30%/>
+</a>
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&hide=contribs" width = 30%/>
+</a>
+
+
+
+
+
+
+
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&hide=contribs,prs" width = 30%/>
+</a>
+
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&&hide=stars,commits,prs,issues,contribs" width = 30%/>
+</a>
+
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&&hide=stars,commits,prs,issues,contribs" width = 30%/>
+</a>
+
+
+
 
 
 
